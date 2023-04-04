@@ -1,0 +1,21 @@
+{
+  "license": "proprietary",
+  "type": "project",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    },
+    {
+      "packagist": false
+    }
+  ],
+  "require": {
+    "twig/twig": "^3.0.4"
+  },
+  "config": {
+    "bin-dir": "bin",
+    "platform": {
+    }
+  }
+}
